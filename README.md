@@ -1,0 +1,4 @@
+rebaseTest
+==========
+
+resolve conflict
